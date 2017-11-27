@@ -1,4 +1,4 @@
-title: halfadder
+title: Building a Half Adder
 hero_image: images/main.png
 description: Eric Coates explains the basic electronic circuit used in computer arithmetic
 theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
@@ -16,3 +16,4 @@ steps:
   - title: AND Gate
   - title: OR Gate
   - title: NAND Gate
+  - title: Bringing it together
