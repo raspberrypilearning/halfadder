@@ -10,6 +10,14 @@ Because the half adder can only add two 1-bit numbers in a single column, it doe
 
 So, the half adder may not carry out an impressive amount of arithmetic, but as it only takes around 30 nanoseconds to produce its answer, this basic adder could therefore carry out around 100 million similar calculations per second, which is how, when coupled with another half adder and other bits of electronic circuitry, many simple 1+1 additions are made to look like powerful maths, when it’s really simple arithmetic, only at a blazing speed!
 
+## You'll need
+* Transistors 8×2N3904 
+* Resistors 4× 4.7kΩ (4K7) for R1, R10, R11 & R12 8× 6.8kΩ (6K8)  for all other resistors 
+* Switches  2× Mini push to close 
+* 2× 5V LEDs  1× Kingbright L-53GD (5mm green) and 1× Kingbright L-53ID (5mm red) are ideal and need no limiting resistors 
+* Breadboard and wire links 
+* 5V Power supply (only 2mA current needed)
+
 
 
 
