@@ -4,8 +4,16 @@ Computers can carry out an awesome amount of mathematics; we all know that. So h
 
 ![Half Adder](images/fig1.png)
 
+ade from just a couple of logic gates (an Exclusive OR gate and an AND gate), in Figure 1. The ‘half’ in its name is because, while it can add 1 plus 0 and even add 0 plus 1 to get the correct answer of 1, as shown in the ‘Sum’ column of the truth table in Figure 1, if it adds 1 plus 1 in binary, this produces the (decimal) answer of 2, which in binary notation is 10, so a second column is needed in the form of a ‘Carry’ output to hold double the value of the single-digit sum output, producing the answer of 10 (decimal 2). This is fine if we only need to add a single column of binary, but the half adder cannot cope with multi-column numbers where a carry may be produced.
 
-##Author
+Because the half adder can only add two 1-bit numbers in a single column, it does not usually work alone. However, if the carry output produced by the half adder can be used as one input to another half adder, the two circuits combine to form the full adder shown in Figure 2, which will now have three inputs and so can add two binary bits in any one column using inputs A and B, plus any ‘carry in’ from a previous column, making multi-column addition possible. 
+
+So, the half adder may not carry out an impressive amount of arithmetic, but as it only takes around 30 nanoseconds to produce its answer, this basic adder could therefore carry out around 100 million similar calculations per second, which is how, when coupled with another half adder and other bits of electronic circuitry, many simple 1+1 additions are made to look like powerful maths, when it’s really simple arithmetic, only at a blazing speed!
+
+
+
+
+## Author
 **Eric Coates**
 Eric Coates, BSc (Hons) MA has lectured on electronics in technical colleges and acted as examiner and moderator for several UK technical educational boards. He is the founder and CEO of <learnabout-electronics.com>
 
