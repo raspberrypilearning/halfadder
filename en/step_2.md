@@ -1,6 +1,6 @@
 ## Exclusive OR
 
- the most complex part of the half adder is an Exclusive OR (XOR) gate, which produces an output of logic 1 when its two inputs are different (01 or 10), but an output of 0 when the two inputs are the same (00 or 11). XOR gates comprise rather more electronics than the other more standard gates, which makes them slower, therefore less popular and more expensive than the other standard gates. However, the Exclusive OR logic function can be, and very often is carried out by a combination of more regular logic gates, where the XOR gate is replaced by a combination of AND, OR and NAND gates, and this  the approach we shall use in our transistor/resistor version of the half adder.
+ The most complex part of the half adder is an Exclusive OR (XOR) gate, which produces an output of logic 1 when its two inputs are different (01 or 10), but an output of 0 when the two inputs are the same (00 or 11). XOR gates comprise rather more electronics than the other more standard gates, which makes them slower, therefore less popular and more expensive than the other standard gates. However, the Exclusive OR logic function can be, and very often is carried out by a combination of more regular logic gates, where the XOR gate is replaced by a combination of AND, OR and NAND gates, and this  the approach we shall use in our transistor/resistor version of the half adder.
  
  ![AND, OR and NAND](images/fig3.png)
  
