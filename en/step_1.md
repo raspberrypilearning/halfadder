@@ -22,7 +22,6 @@ So, the half adder may not carry out an impressive amount of arithmetic, but as 
 
 
 ## Author
-**Eric Coates**
-Eric Coates, BSc (Hons) MA has lectured on electronics in technical colleges and acted as examiner and moderator for several UK technical educational boards. He is the founder and CEO of <learnabout-electronics.com>
+**Eric Coates**, BSc (Hons) MA, has lectured on electronics in technical colleges and acted as examiner and moderator for several UK technical educational boards. He is the founder and CEO of [learnabout-electronics.com](http://www.learnabout-electronics.org/{:target="_blank"}).
 
 
