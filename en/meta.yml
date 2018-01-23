@@ -1,0 +1,19 @@
+title: Building a Half Adder
+hero_image: images/main.png
+description: Eric Coates explains the basic electronic circuit used in computer arithmetic
+theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 3 # possible values: 1, 2 or 3
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 
+interests: 
+technologies:
+site_areas: HackSpace
+steps:
+  - title: Introduction
+  - title: Exclusive OR
+  - title: AND Gate
+  - title: OR Gate
+  - title: NAND Gate
+  - title: Bringing it together
