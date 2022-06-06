@@ -7,16 +7,14 @@ duration: 3
 listed: false
 ingredient: false
 copyedit: false
-curriculum:
-interests:
-technologies:
+curriculum: 
+interests: 
+technologies: 
 site_areas: HackSpace
 steps:
 - title: Introduction
-  completion: engaged
 - title: Exclusive OR
 - title: AND Gate
 - title: OR Gate
 - title: NAND Gate
-  completion: internal
 - title: Bringing it together
